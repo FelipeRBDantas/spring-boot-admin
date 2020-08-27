@@ -1,4 +1,4 @@
-# spring-boot-admin
+# Spring Boot Admin
 
 Admin do Spring Boot para monitoramentro de métricas das aplicações construidas com Spring Boot.
 
